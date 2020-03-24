@@ -2,6 +2,7 @@
 
 - [Artem Babaian. Vancouver, Canada](bio/ababaian.md)
 - [Kevin Blighe, London, UK](https://www.biostars.org/u/41557/)
+- [Umar Ahmad, Bauchi, Nigeria](bio/uahmad.md)
 
 ### Adding your name to the list
 
